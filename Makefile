@@ -1,0 +1,4 @@
+Makefile:
+
+target: dependencies
+  command
